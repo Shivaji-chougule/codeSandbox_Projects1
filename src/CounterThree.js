@@ -10,7 +10,7 @@ function CounterThree() {
       <h2>CounterThree:{count}</h2>
       <button onClick={incrementHadler}>increment</button>
       <button onClick={decrementHadler}>decrement</button>
-      <button onClick={resetHadler}>reset</button>
+      <button onClick={resetHadler}>resetbutton</button>
     </div>
   );
 }
